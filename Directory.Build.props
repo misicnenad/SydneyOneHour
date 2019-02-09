@@ -1,0 +1,12 @@
+<Project>
+
+    <PropertyGroup>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <Authors>Nenad Misic</Authors>
+        <Company>Nenad Misic</Company>
+    </PropertyGroup>
+
+</Project>
